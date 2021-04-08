@@ -8,7 +8,7 @@ msgstr ""
 "Language: en_PT\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-08 03:49\n"
+"PO-Revision-Date: 2021-04-08 09:50\n"
 "Last-Translator: \n"
 "Language-Team: Pirate English\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -1945,7 +1945,7 @@ msgstr "Ye have {0}% o' th' manpower o' all pirates, so takin' a ship will take 
 
 #: src/components/app/AppTimeBomb.tsx:16
 msgid "You need to upgrade the Chia application as this version will stop working soon!"
-msgstr ""
+msgstr "Ye needs t' get yer Chia program updated! T'is 'ere 's soon gonna be useless like a priest!"
 
 #: src/components/farm/overview/FarmOverview.tsx:24
 msgid "Your Farm Overview"
