@@ -8,7 +8,7 @@ msgstr ""
 "Language: da_DK\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-07 21:47\n"
+"PO-Revision-Date: 2021-04-08 03:49\n"
 "Last-Translator: \n"
 "Language-Team: Danish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -614,7 +614,7 @@ msgstr "Estimeret sum af alt plottet drev plads af alle farmerer på netværket"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:124
 msgid "Exclude final directory"
-msgstr ""
+msgstr "Eksludér endelig mappe"
 
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:32
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
@@ -1485,7 +1485,7 @@ msgstr "Log Ind"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:129
 msgid "Skips adding a final directory to harvester for farming"
-msgstr ""
+msgstr "Skipper tilføjelse af endelig mappe til harvesteren for farmning"
 
 #: src/electron/main.ts:379
 msgid "Speech"
@@ -1945,7 +1945,7 @@ msgstr "Du har {0}% af den samlede plads på netværket, så at farme en gevinst
 
 #: src/components/app/AppTimeBomb.tsx:16
 msgid "You need to upgrade the Chia application as this version will stop working soon!"
-msgstr ""
+msgstr "Du skal opdaterer Chia programmet før denne version stopper med at fungerer!"
 
 #: src/components/farm/overview/FarmOverview.tsx:24
 msgid "Your Farm Overview"
