@@ -8,7 +8,7 @@ msgstr ""
 "Language: ro_RO\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-08 03:49\n"
+"PO-Revision-Date: 2021-04-08 15:45\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
@@ -614,7 +614,7 @@ msgstr "Suma estimată a întregului spațiu pe disc reprezentat de toți fermie
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:124
 msgid "Exclude final directory"
-msgstr ""
+msgstr "Exclude directorul final"
 
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:32
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
@@ -769,7 +769,7 @@ msgstr "Înălțime"
 msgid "Help"
 msgstr "Ajutor"
 
-#: src/components/core/components/LocaleToggle/LocaleToggle.tsx:62
+#: src/components/core/components/LocaleToggle/LocaleToggle.tsx:61
 msgid "Help translate"
 msgstr "Ajuta la traducere"
 
@@ -1485,7 +1485,7 @@ msgstr "Loghează-te"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:129
 msgid "Skips adding a final directory to harvester for farming"
-msgstr ""
+msgstr "Sari peste adăugarea unui director final la harvester pentru farmare"
 
 #: src/electron/main.ts:379
 msgid "Speech"
@@ -1945,7 +1945,7 @@ msgstr "Ai {0}% din spațiul din retea, așadar cultivarea unui bloc va dura apr
 
 #: src/components/app/AppTimeBomb.tsx:16
 msgid "You need to upgrade the Chia application as this version will stop working soon!"
-msgstr ""
+msgstr "Trebuie să actualizezi aplicația Chia deoarece această versiune nu va mai funcționa în curând!"
 
 #: src/components/farm/overview/FarmOverview.tsx:24
 msgid "Your Farm Overview"
@@ -2007,3 +2007,4 @@ msgstr "{currencyCode} Total Chia cultivat"
 #: src/components/farm/card/FarmCardUserFees.tsx:17
 msgid "{currencyCode} User Transaction Fees"
 msgstr "{currencyCode} Comisioane de tranzacție"
+
