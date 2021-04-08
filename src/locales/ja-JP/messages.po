@@ -8,7 +8,7 @@ msgstr ""
 "Language: ja_JP\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-07 21:47\n"
+"PO-Revision-Date: 2021-04-08 03:49\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1945,7 +1945,7 @@ msgstr "あなたはネットワークの {0}% の容量を所有しているの
 
 #: src/components/app/AppTimeBomb.tsx:16
 msgid "You need to upgrade the Chia application as this version will stop working soon!"
-msgstr ""
+msgstr "このバージョンは間もなく動作しなくなるため、チアアプリケーションをアップグレードしてください！"
 
 #: src/components/farm/overview/FarmOverview.tsx:24
 msgid "Your Farm Overview"
