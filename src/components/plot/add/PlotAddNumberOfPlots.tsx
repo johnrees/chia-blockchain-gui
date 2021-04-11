@@ -206,7 +206,7 @@ export default function PlotAddNumberOfPlots() {
                     {' '}
                     <TooltipIcon>
                       <Trans>
-                        Disable bifield plotting when your temporary directory is on fast storage like SSD or you need lower per process RAM requirements. Plotting with bitfield enabled has about 20% less overall writes.
+                        Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting. 
                       </Trans>
                     </TooltipIcon>
                   </>
