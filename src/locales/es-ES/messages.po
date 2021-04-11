@@ -8,7 +8,7 @@ msgstr ""
 "Language: es_ES\n"
 "Project-Id-Version: chia-blockchain\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2021-04-08 03:49\n"
+"PO-Revision-Date: 2021-04-11 03:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -769,7 +769,7 @@ msgstr "Altura"
 msgid "Help"
 msgstr "Ayuda"
 
-#: src/components/core/components/LocaleToggle/LocaleToggle.tsx:62
+#: src/components/core/components/LocaleToggle/LocaleToggle.tsx:61
 msgid "Help translate"
 msgstr "Ayudar a traducir"
 
@@ -1945,7 +1945,7 @@ msgstr "Usted tiene el {0}% del espacio en la red, por lo que para cultivar un b
 
 #: src/components/app/AppTimeBomb.tsx:16
 msgid "You need to upgrade the Chia application as this version will stop working soon!"
-msgstr ""
+msgstr "¡Necesitas actualizar la aplicación de Chia, ya que esta versión dejará de funcionar pronto!"
 
 #: src/components/farm/overview/FarmOverview.tsx:24
 msgid "Your Farm Overview"
@@ -2007,3 +2007,4 @@ msgstr "{currencyCode} Total de Chia Cultivada"
 #: src/components/farm/card/FarmCardUserFees.tsx:17
 msgid "{currencyCode} User Transaction Fees"
 msgstr "{currencyCode} Tarifas de Transacción del Usuario"
+
